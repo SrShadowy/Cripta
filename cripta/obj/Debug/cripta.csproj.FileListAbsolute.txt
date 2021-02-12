@@ -1,0 +1,10 @@
+C:\Users\shadowy\source\repos\cripta\cripta\bin\Debug\cripta.exe.config
+C:\Users\shadowy\source\repos\cripta\cripta\bin\Debug\cripta.exe
+C:\Users\shadowy\source\repos\cripta\cripta\bin\Debug\cripta.pdb
+C:\Users\shadowy\source\repos\cripta\cripta\obj\Debug\cripta.Form1.resources
+C:\Users\shadowy\source\repos\cripta\cripta\obj\Debug\cripta.Properties.Resources.resources
+C:\Users\shadowy\source\repos\cripta\cripta\obj\Debug\cripta.csproj.GenerateResource.cache
+C:\Users\shadowy\source\repos\cripta\cripta\obj\Debug\cripta.csproj.CoreCompileInputs.cache
+C:\Users\shadowy\source\repos\cripta\cripta\obj\Debug\cripta.exe
+C:\Users\shadowy\source\repos\cripta\cripta\obj\Debug\cripta.pdb
+C:\Users\shadowy\source\repos\cripta\cripta\obj\Debug\cripta.Form2.resources
